@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 3,
@@ -19,22 +19,16 @@
       "isInCart": false
     },
     {
-      "id": 4,
-      "name": "String Cheese",
-      "category": "Dairy",
-      "isInCart": false
+      "name": "Apple",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
     },
     {
-      "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "name": "Potato",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 9
     }
   ]
 }
